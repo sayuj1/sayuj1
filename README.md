@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+To know more about me visit https://sayuj.com
 <!--
 **sayuj1/sayuj1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
